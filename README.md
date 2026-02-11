@@ -69,7 +69,7 @@ Weatherhead Center for International Affairs (Sep 2010 – Jun 2011)
 
 ### Leadership & Service
 
-- Founding member, **Teaching Public Service for the Digital Age**  
+- Founding member, **Teaching Public Service for the Digital Age**"  
   International network transforming public policy education for the digital era.
 - Future World Fellow, Centre for the Governance of Change (IE University, Madrid).
 - Asia 21 Young Leader, Asia Society (2015).
@@ -105,7 +105,7 @@ Weatherhead Center for International Affairs (Sep 2010 – Jun 2011)
 ## Facilitation & Moderation
 
 **Lead Facilitator**
-- Forward Singapore engagements (Nov 2022)
+- Forward Singapore engagements (2022)
 - Conversations on Singapore Women’s Development (2021, virtual)
 
 **Moderator (Digital Government Webinars, 2020–2021)**
