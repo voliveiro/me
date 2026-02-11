@@ -97,8 +97,9 @@ Weatherhead Center for International Affairs (Sep 2010 – Jun 2011)
   - Integrates New York Times API for weekly top fiction/non-fiction.
   - Encrypted user passwords with `bcrypt`.
 
-**Google Firebase** 
-- *CheckOwnShelf*: Full stack app that allows people to easily add books they own to a database by manually entering details, typing in ISBN number, or scanning the book barcode. Scanning function built with QuaggaJS, uses the Google Books API for data. 
+**Google Firebase**
+- *CheckOwnShelf*: Full stack app that allows people to easily add books they own to a database by manually entering details, typing in ISBN number, or scanning the book barcode. Scanning function built with QuaggaJS, uses the Google Books API for data.
+  
 ---
 
 ## Facilitation & Moderation
