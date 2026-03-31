@@ -83,7 +83,7 @@ Weatherhead Center for International Affairs (Sep 2010 – Jun 2011)
 
 ---
 
-### Coding
+### Technology
 
 #### AI Agents
 
@@ -109,14 +109,6 @@ Weatherhead Center for International Affairs (Sep 2010 – Jun 2011)
 * Sentiment analysis of Facebook posts using `pandas`, `datetime`, `TextBlob`, and `matplotlib`.
 
 #### JavaScript
-
-**Vanilla JS**
-
-* Browser-based Rotter's Locus of Control Scale quiz (auto-scoring, responsive UI).
-
-**jQuery + Bootstrap**
-
-* Client-side trivia game generating multiple-choice questions via API.
 
 **ExpressJS + MongoDB**
 
