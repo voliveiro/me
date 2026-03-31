@@ -89,24 +89,20 @@ Weatherhead Center for International Affairs (Sep 2010 – Jun 2011)
 
 **[Nuncio](https://github.com/voliveiro/nuncio)** — Personal AI agent
 
-* A personal AI agent built on Claude, running on Ubuntu and deployed to a cloud server. 
+* A personal AI agent built on Claude, running on Ubuntu and deployed to a cloud server. Built as a hands-on way to learn how agentic systems work in practice
 * Manages Gmail, Google Calendar, and Google Drive via OAuth 2.0; reads and writes local files.
-* Maintains persistent memory across sessions; uses a structured agentic loop with action logging, a confirmation gate, and retry budgets.
-* Built as a hands-on way to learn how agentic systems work in practice — and what AI governance looks like from the inside. (Note: Pay attention to what you learned about composition of functions in school!)
+* Maintains persistent memory across sessions; uses a structured agentic loop with action logging, a confirmation gate, and retry budgets.  
 * Stack: Python, Flask, Anthropic API.
 
 **[Scout](https://github.com/voliveiro/scout)** — Research intelligence agent
 
 * Monitors policy research institutions and think tanks across 20+ sources, extracts recent publications and events, and synthesises digests.
 * Runs three analysis passes per cycle: thematic clustering, executive summary, and a diff against the previous run.
-* Uses Claude with web search enabled to read live pages rather than scraping static HTML; results persist in SQLite across runs.
-* Built for a senior civil servant audience; designed to be shared across a team without exposing API credentials.
 * Stack: Python, Flask, Anthropic API (Haiku for scraping, Sonnet for analysis), SQLite.
 
 **[Paul](https://github.com/voliveiro/paul)** — Multi-agent policy simulator
 
-* A multi-agent deliberation tool in which Singapore government agency agents respond to policy proposals from their institutional perspectives.
-* 17 agency agents available , each with a system prompt grounded in its actual mandate.
+* A multi-agent deliberation tool in which government agency agents respond to policy proposals from their institutional perspectives.
 * An orchestrator synthesises fault lines, unexpected consensus, unanswered questions, and missing actors across all responses.
 * Designed not as a consensus machine but as a structured way to surface tensions before a proposal reaches a real room.
 * Stack: Python, Flask, Anthropic API, SSE streaming.
