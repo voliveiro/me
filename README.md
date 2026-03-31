@@ -2,14 +2,6 @@
 
 📧 [vernie.oliveiro@gmail.com](mailto:vernie.oliveiro@gmail.com)  
 🔗 GitHub: <https://github.com/voliveiro>
-
----
-
-## About
-
-Policy and digital governance researcher and educator.
-Experienced in public sector strategy, foresight, leadership development, and full-stack web development.
-
 ---
 
 ## Work Experience
