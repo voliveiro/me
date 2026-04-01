@@ -12,8 +12,6 @@
 *Government Chief Digital Technology Officer Office (on secondment)*  
 April 2025 – April 2026
 
-* I help senior leaders learn about digital technology.
-
 ---
 
 ### Civil Service College, Singapore
@@ -23,8 +21,6 @@ April 2025 – April 2026
 **Senior Researcher** (Apr 2014 – Apr 2016)  
 **Researcher** (Sep 2011 – Apr 2014)
 
-* I help public sector leaders and officers learn about emerging issues and techniques in governance.
-
 ---
 
 ### Ministry of National Development, Singapore
@@ -33,26 +29,19 @@ April 2025 – April 2026
 *Secondment*  
 October 2016 – October 2018
 
-* I led the Policy Strategy team in strategic planning and foresight.
-
 ---
 
 ### Harvard University, Cambridge, MA, USA
 
 **Lecturer, International History** (Sep 2010 – Jun 2011)
 
-* I taught lectures and led seminars on international history and U.S. foreign relations.
-
 **Director of Undergraduate Studies**  
 Weatherhead Center for International Affairs (Sep 2010 – Jun 2011)
-
-* I helped undergraduates make the most of the opportunities afforded by the WCFIA.
 
 **Resident Tutor, Dunster House** (2007 – 2011)
 
 * Nominated for the John R. Marquand Award for Exceptional Advising and Counselling (2010).
 * Dunster House Tutor of the Year Award (2011).
-* I looked after entryway of students, and oversaw the academic welfare of History students in the House.
 
 **Teaching Fellow, International History** (Sep 2005 – Jun 2009)
 
@@ -81,7 +70,7 @@ Weatherhead Center for International Affairs (Sep 2010 – Jun 2011)
 
 **[Nuncio](https://github.com/voliveiro/nuncio)** — Personal AI agent
 
-* A personal AI agent built on Claude, running on Ubuntu and deployed to a cloud server. Built as a hands-on way to learn how agentic systems work in practice. Maintains persistent memory across sessions; uses a structured agentic loop with action logging, a confirmation gate, and retry budgets.  
+* A personal AI agent built on Claude, running on Ubuntu and deployed to a cloud server. Built as a hands-on way to learn how agentic systems work in practice. 
 * Stack: Python, Flask, Anthropic API.
 
 **[Scout](https://github.com/voliveiro/scout)** — Research intelligence agent
@@ -91,7 +80,7 @@ Weatherhead Center for International Affairs (Sep 2010 – Jun 2011)
 
 **[Paul](https://github.com/voliveiro/paul)** — Multi-agent policy simulator
 
-* A multi-agent deliberation tool in which government agency agents respond to policy proposals from their institutional perspectives. An orchestrator synthesises fault lines, unexpected consensus, unanswered questions, and missing actors across all responses. Designed not as a consensus machine but as a structured way to surface tensions before a proposal reaches a real room.
+* A multi-agent deliberation tool in which agents representing domains in government respond to policy proposals from their institutional perspectives. An orchestrator synthesises fault lines, unexpected consensus, unanswered questions, and missing actors across all responses. Designed not as a consensus machine but as a structured way to surface tensions before a proposal reaches a real room.
 * Stack: Python, Flask, Anthropic API, SSE streaming.
 
 ---
