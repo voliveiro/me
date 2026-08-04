@@ -137,6 +137,11 @@ Weatherhead Center for International Affairs (Sep 2010 – Jun 2011)
 
 ## Education
 
+### Institute of Adult Learning 
+
+Advanced Certificate in Learning and Performance
+* Certified in essential competencies in adult learning, instructional design, competency-based assessment, and technology-enabled delivery
+
 ### Harvard University
 
 PhD, International History (2010)  
@@ -150,8 +155,6 @@ AM, History (2005)
 * Charles Warren Center Summer Research Grant (2007, 2008)
 * Center for American Political Studies Dissertation Seed Grant (2007, 2008)
 * Harvard GSAS Fellowship (2003, 2004)
-
----
 
 ### National University of Singapore
 
